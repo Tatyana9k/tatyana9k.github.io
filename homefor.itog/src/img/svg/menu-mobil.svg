@@ -1,0 +1,13 @@
+<svg id="burger_" data-name="burger " xmlns="http://www.w3.org/2000/svg" width="16.25" height="13" viewBox="0 0 16.25 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #302d32;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Фигура_2" data-name="Фигура 2" class="cls-1" d="M24,34V32.818H40.262V34H24Z" transform="translate(-24 -21)"/>
+  <path id="Фигура_2_копия" data-name="Фигура 2 копия" class="cls-1" d="M24,28.091V26.909H40.262v1.182H24Z" transform="translate(-24 -21)"/>
+  <path id="Фигура_2_копия_2" data-name="Фигура 2 копия 2" class="cls-1" d="M24,22.182V21H40.262v1.182H24Z" transform="translate(-24 -21)"/>
+</svg>
